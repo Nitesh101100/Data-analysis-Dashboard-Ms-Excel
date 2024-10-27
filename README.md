@@ -5,14 +5,14 @@ The vrinda store wants to create an annual sales report for 2022. so that, the o
 <a href = "https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20data%20sheet.xlsx"> Dataset</a>
 ## Questions(KPIs)
 Compare the sales and order using single chart 
--Which month get the highest sales and orders 
+-Which month get the highest sales and orders ?
 -Who purchased more - Men or Women ?
 -What are the different order status in 2022 ?
--List top 10 state contribution the sales ?
--Relation between age and gender based on no of orders ?
+-List top 10 state contribution the sales.
+-Relation between age and gender based on no of orders.
 -Which channel is contributing maximum in the sales?
--Highest selling category ?
--Percentage of total order delivered ?
+-Highest selling category .
+-Percentage of total order delivered.
 
 -Dashboard interaction <a>"https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/excel%20project.PNG">View Dashboard</a>
 ## Process 

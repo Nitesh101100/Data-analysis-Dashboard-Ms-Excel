@@ -5,7 +5,8 @@ The vrinda store wants to create an annual sales report for 2022. so that, the o
 <a href = "https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20data%20sheet.xlsx"> Dataset</a>
 
 ## Questions(KPIs)
-Compare the sales and order using single chart 
+Compare the sales and order using single chart    
+
 1.Which month get the highest sales and orders ?
 2.Who purchased more - Men or Women ?
 3.What are the different order status in 2022 ?
@@ -17,6 +18,7 @@ Compare the sales and order using single chart
 
 -Dashboard interaction <a>"https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/excel%20project.PNG">View Dashboard</a>
 ## Process 
+
 -Verify data for any missing value and sort out the same.
 -Make sure data is consistent and clean with respect to data type ,data format and values used.
 -Created pivot tables according to the question asked .

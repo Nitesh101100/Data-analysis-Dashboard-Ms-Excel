@@ -27,3 +27,16 @@ Compare the sales and order using single chart
 ## Dashboard
 https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/excel%20project.PNG
 
+## Project Insight
+-Women customers are more likely to buy products compared to mens(~65%).
+-The state of maharashtra, karnataka and utter Pradesh are the top 3 product buyers.
+-The adult age group (30-49years) is max contributing (~50%)and buys most product .
+-The maximum no of product customers order from Amazon , Flipkart and Myntra channel.
+-More than 90% of the product delivered.
+
+## Final conclusion:
+To improve the sales of Vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in maharashtra , Karnataka and utter pradesh should be implemented .Thedemographic represents a key consumer segment , as they often make significant household and lifestyle purchases.the approach should include targeted digital marketing campaigns and personalized promotion to capture their attention.
+
+
+
+

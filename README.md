@@ -19,8 +19,8 @@ Compare the sales and order using single chart
 -Dashboard interaction <a>"https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/excel%20project.PNG">View Dashboard</a>
 ## Process 
 
--Verify data for any missing value and sort out the same.
--Make sure data is consistent and clean with respect to data type ,data format and values used.
--Created pivot tables according to the question asked .
--Merge all pivot tables into one dashboard and apply slicer to make dynamic .
+1.Verify data for any missing value and sort out the same.
+2.Make sure data is consistent and clean with respect to data type ,data format and values used.
+3.Created pivot tables according to the question asked .
+4.Merge all pivot tables into one dashboard and apply slicer to make dynamic .
 

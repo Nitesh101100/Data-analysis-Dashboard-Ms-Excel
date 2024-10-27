@@ -24,3 +24,6 @@ Compare the sales and order using single chart
 3.Created pivot tables according to the question asked .
 4.Merge all pivot tables into one dashboard and apply slicer to make dynamic .
 
+## Dashboard
+https://github.com/Nitesh101100/Data-analysis-Dashboard/blob/main/excel%20project.PNG
+
